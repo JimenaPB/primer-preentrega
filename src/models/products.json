@@ -1,0 +1,130 @@
+[{
+    "title": "Brownie",
+    "description": "Chocolate, dulce de leche y crema",
+    "price": 5000,
+    "thumbnail": "nrw",
+    "code": 543,
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Chocotorta",
+    "description": "Galletitas, dulce de leche y crema",
+    "price": 3000,
+    "thumbnail": "chc",
+    "code": 5678,
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Cheesecake",
+    "description": "Crema de queso y frutas",
+    "price": 4500,
+    "thumbnail": "chs",
+    "code": 545,
+    "stock": 10,
+    "id": 3
+  },
+  {
+    "title": "Lemon Pie",
+    "description": "Crema de Limón y merengue",
+    "price": 7000,
+    "thumbnail": "lmn",
+    "code": 54541,
+    "stock": 10,
+    "id": 4
+  },
+  {
+    "title": "Cookies",
+    "description": "Galletas con chips",
+    "price": 900,
+    "thumbnail": "coo",
+    "code": 5452,
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Torta Balcarce",
+    "description": "Merengue y dulce de leche",
+    "price": 10000,
+    "thumbnail": "blc",
+    "code": 1257,
+    "stock": 10,
+    "id": 6
+  },
+  {
+    "title": "Selva Negra",
+    "description": "Bizcocho de chocolate,con crema y frutillas",
+    "price": 9000,
+    "thumbnail": "slv",
+    "code": 8215,
+    "stock": 10,
+    "id": 7
+  },
+  {
+    "title": "Tres Leches",
+    "description": "Leche condensada, leche evaporada y crema de leche",
+    "price": 8000,
+    "thumbnail": "tre",
+    "code": 6533,
+    "stock": 10,
+    "id": 8
+  },
+  {
+    "title": "Budín de Pan",
+    "description": "Acompañado con crema y dulce",
+    "price": 7350,
+    "thumbnail": "pan",
+    "code": 5243,
+    "stock": 10,
+    "id": 9
+  },
+  {
+    "title": "Torta Oreo",
+    "description": "Con crema de oreos y galletitas",
+    "price": 2500,
+    "thumbnail": "ore",
+    "code": 7241,
+    "stock": 10,
+    "id": 10
+  },
+  {
+    "title": "Torta Marroc",
+    "description": "Crema de mani y choclate",
+    "price": 15000,
+    "thumbnail": "Mar",
+    "code": 2453,
+    "stock": 10,
+    "id": 11
+  },
+  {
+    "title": "Torta Matilda",
+    "description": "Bizcocho de chocolate con baño y relleno de chocolate",
+    "price": 6000,
+    "thumbnail": "mat",
+    "code": 8642,
+    "stock": 10,
+    "id": 12
+  },
+  {
+    "title": "torta Rogel",
+    "description": "Varios pisos y mucho dulce de leche",
+    "price": 4000,
+    "thumbnail": "rog",
+    "code": 5733,
+    "stock": 10,
+    "id": 13
+  },
+  {
+    "title": "Torta 3 Mousses",
+    "description": "Chocolaten blanco, con leche y semi amargo",
+    "price": 14000,
+    "thumbnail": "mou",
+    "code": 1625,
+    "stock": 10,
+    "id": 14
+  }]
+
+
+
+  
